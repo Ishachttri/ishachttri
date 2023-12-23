@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Frontend development😉**
 
-- 📫 How to reach me **[Email] [linkeddIn] ishachttri@gmail.com**
+- 📫 How to reach me **[Email] [linkedIn] ishachttri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
