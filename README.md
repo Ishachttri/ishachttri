@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm @Ishachttri</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+isha+chettri!;" />
+</h1>
 <h3 align="center">I'm a passionate front-end developer and love creating awesome web experiences. Currently, I'm exploring the realms of HTML, CSS, and JavaScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishachttri&label=Profile%20views&color=0e75b6&style=flat" alt="ishachttri" /> </p>
