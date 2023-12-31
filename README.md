@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+isha+chettri!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Isha+Chettri!;" />
 </h1>
 <h3 align="center">I'm a passionate front-end developer and love creating awesome web experiences. Currently, I'm exploring the realms of HTML, CSS, and JavaScript.</h3>
 
