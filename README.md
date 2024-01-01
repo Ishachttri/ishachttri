@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishachttri&label=Profile%20views&color=0e75b6&style=flat" alt="ishachttri" /> </p>
 
-- 🌱 I’m currently learning **Advanced Css and JavaScript concepts😊 & Responsive design techniques**
+- 🌱 I’m currently learning **Advanced Css and JavaScript concepts😊 & Focused on Learning React**
 
 - 👯 I’m looking to collaborate on **Exciting web development projects🐢**
 
